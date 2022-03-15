@@ -6,14 +6,22 @@
 */
 int main(void)
 {
-int i;
+int number;
 int j;
-for (i = 0; i <= 10; i++)
+for (number = 48; number <= 57; number++)
 {
-for (j = 0; j <= 10; j++)
+for (j = 49; j <= 57; j++)
 {
-printf("%d %d\n", i, j);
+putchar(number);
+putchar(j);
 }
+if (number == 57 && j == 57)
+{
+break;
 }
+putchar(',');
+putchar(' ');
+}
+putchar('\n');
 return (0);
 }
