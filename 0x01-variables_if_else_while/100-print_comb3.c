@@ -21,6 +21,10 @@ if (number == 57 && j == 57)
 {
 break;
 }
+if (number == j)
+{
+break;
+}
 putchar('\n');
 }
 return (0);
