@@ -8,7 +8,7 @@ void _puts(char *str)
 {
 char *str;
 str = "I do not fear computers. I fear the lackof thm - Isaac Asi,ov";
-puts(str);
-puts("\n");
+_puts(str);
+_puts("\n");
 return (0);
 }
