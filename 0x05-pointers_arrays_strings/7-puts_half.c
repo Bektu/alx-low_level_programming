@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* puts_half - function that prints half of a string, followed by a new line
+* puts_half - function that prints half of a st
+* ring, followed by a new line
 *@str: string.
 */
 void puts_half(char *str)
@@ -22,7 +23,7 @@ else
 {
 for (n = (i - 1) / 2; n< i - 1; n++)
 {
-  _putchar (str[n + 1]);
+_putchar (str[n + 1]);
 }
 }
 _putchar('\n');
