@@ -6,7 +6,10 @@
 */
 int _strlen(char *s)
 {
-s = "My first strlen!";
-len = _strlen(*s);
+int i = 0;
+while (s[i] != 0)
+{
+i++;
+}
 return (0);
 }
