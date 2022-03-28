@@ -1,1 +1,0 @@
-ponters arrays and string
