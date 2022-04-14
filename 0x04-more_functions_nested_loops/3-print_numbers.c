@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
 * print_numbers -prints given numbers.
-* Return: always 0.
+* Return: 0 always.
 */
 void print_numbers(void)
 {
@@ -12,5 +12,5 @@ for (i = 48; i <= 57; i++)
 putchar(i);
 putchar('\n');
 }
-return (0);
+return (void);
 }
