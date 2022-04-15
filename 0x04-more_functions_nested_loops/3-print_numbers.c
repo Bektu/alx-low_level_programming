@@ -2,6 +2,7 @@
 #include <stdio.h>
 /**
 * print_numbers -prints given numbers.
+*
 * Return: 0 always.
 */
 void print_numbers(void)
