@@ -15,6 +15,6 @@ if (i == 50 || i == 52)
 }
 else
 putchar(i);
-putchar('\n');
 }
+putchar('\n');
 }
