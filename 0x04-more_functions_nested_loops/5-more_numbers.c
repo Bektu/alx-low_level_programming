@@ -9,14 +9,9 @@ void more_numbers(void)
 {
 int i = 0 ;
 int j;
-while (i < 10)
+for (i = 48; i <=58; i++)
 {
-for (j = 48; i <= 63; i++)
-{
-if (i == 50 || i == 52)
-{
-}
-else
+for (j = 48; j <= 63; j++)
 putchar(i);
 }
 putchar('\n');
