@@ -7,3 +7,4 @@
 * Return: returns character.
 */
 char *_strpbrk(char *s, char *accept)
+{}

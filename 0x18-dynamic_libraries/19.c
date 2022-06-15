@@ -7,3 +7,4 @@
 * Return: returns character.
 */
 char *_strstr(char *haystack, char *needle)
+{}

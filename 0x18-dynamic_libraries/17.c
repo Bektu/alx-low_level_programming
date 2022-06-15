@@ -7,3 +7,4 @@
 * Return: returns character.
 */
 unsigned int _strsclearpn(char *s, char *accept)
+{}

@@ -7,3 +7,4 @@
 * Return: returns character.
 */
 char *_strchr(char *s, char c)
+{}

@@ -3,5 +3,7 @@
 /**
 * _atoi - takes the string as input
 * @s - input string
-*/ Retun: returns the upper value.
+* Retun: returns the upper value.
+*/
 int _atoi(char *s)
+{}

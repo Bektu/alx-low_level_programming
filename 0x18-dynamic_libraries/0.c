@@ -3,5 +3,7 @@
 /**
 *_putchar - prints
 *@c - input character
-*/ Retun: value of the character.
+* Return: value of the character.
+*/
 int _putchar(char c)
+{}

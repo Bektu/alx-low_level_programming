@@ -3,5 +3,7 @@
 /**
 *_isalpha - compare the value and identify the alpha
 *@c - input value
-*/ Return: returns the alpha.
+* Return: returns the alpha.
+*/
 int _isalpha(int c)
+{}
