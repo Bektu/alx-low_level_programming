@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*_isalpha - compare the value and identify the alpha
+*_islower - compare the value and identify the alpha
 *@c - input value
-*/ Retun: returns the alpha.
-int _isalpha(int c)
+*/ Return: returns int type.
+int _islower(int c)

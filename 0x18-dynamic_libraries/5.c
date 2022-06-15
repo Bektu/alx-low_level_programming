@@ -3,5 +3,5 @@
 /**
 * _isdigit -compare the value and give the digit
 * @c - input value
-*/ Retun: returns the digit.
+*/ Return: returns the digit.
 int _isdigit(int c)

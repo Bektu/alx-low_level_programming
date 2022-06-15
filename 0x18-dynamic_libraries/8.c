@@ -4,6 +4,6 @@
 * _strcpy - copies the string
 * @src - input character
 * @dest - destination
-* Retun:
+* Return:
 */
 char *_strcpy(char *dest, char *src)
