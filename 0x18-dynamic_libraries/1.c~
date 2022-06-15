@@ -1,7 +1,0 @@
-#include "main.h"
-#include <stdio>
-/**
- *_islower - compare the value and identify the lower value
- *@c - input character
- */ Retun: the lower value.
-int _islower(char c);
