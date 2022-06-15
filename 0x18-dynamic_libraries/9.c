@@ -4,6 +4,7 @@
 * _strcat - combine the strings
 * @src - input character
 * @dest - destination
-* Retun:
+* Return:
 */
 char *_strcat(char *dest, char *src)
+{}
