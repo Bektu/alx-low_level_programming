@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
  *_putchar - prints
  *@c - input character

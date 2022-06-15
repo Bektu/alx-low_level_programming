@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
 * _isupper -compare the value and give the upper
 * @c - input value

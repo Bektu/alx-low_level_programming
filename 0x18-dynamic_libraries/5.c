@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
 * _isdigit -compare the value and give the digit
 * @c - input value

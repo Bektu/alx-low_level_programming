@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
 *_isalpha - compare the value and identify the lower alpha
 *@c - input value
