@@ -5,7 +5,7 @@
 * @src - input character
 * @dest - destination
 * @n - integer value
-* Return: the combinew string.
+* Return: char type.
 */
 char *_strncpy(char *dest, char *src, int n)
 {}
