@@ -4,4 +4,4 @@
  *_puts - prints the string
  *@s - input character
  */ Retun: return 0.
-void _puts(char *s);
+void _puts(char *s)

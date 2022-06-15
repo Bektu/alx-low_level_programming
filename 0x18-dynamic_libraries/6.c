@@ -4,4 +4,4 @@
 * _strlen - computes the lenth of string
 * @s - input string
 */ Retun: returns thelenth of the string.
-int _strlen(char *s);
+int _strlen(char *s)

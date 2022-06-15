@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* _memcpy - copies 
+* _memcpy - copies
 * @dest - destination
 * @src - string
 * @n - integer value

@@ -4,4 +4,4 @@
 *_isalpha - compare the value and identify the alpha
 *@c - input value
 */ Retun: returns the alpha.
-int _isalpha(int c);
+int _isalpha(int c)

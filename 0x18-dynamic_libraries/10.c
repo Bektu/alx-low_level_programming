@@ -6,4 +6,4 @@
 * @dest - destination
 * Return: the combinew string.
 */
-char *_strcat(char *dest, char *src);
+char *_strcat(char *dest, char *src)

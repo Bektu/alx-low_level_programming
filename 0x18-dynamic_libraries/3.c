@@ -4,4 +4,4 @@
 * _abs -computed the abs of the value
 * @n - input value
 */ Retun: returns the abs of th value.
-int _abs(int n);
+int _abs(int n)
