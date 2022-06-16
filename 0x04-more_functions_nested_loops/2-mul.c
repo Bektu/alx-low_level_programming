@@ -2,10 +2,10 @@
 #include <stdio.h>
 /**
 * mul - multiplies integers
-* @a: int 1
-* @b: int 2
+* @a: int
+* @b: int 
 * @c: gives output
-* Return: 1 ifuppercase else 0.
+* Return: multiplication result.
 */
 int mul(int a, int b)
 {

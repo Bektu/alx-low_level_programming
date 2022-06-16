@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 #include <stdio.h>
 /**
 * more_numbers -prints given numbers.
@@ -7,14 +7,17 @@
 */
 void more_numbers(void)
 {
-int i;
-int j;
-for (i = 48; i <= 58; i++)
+int number, tens, units, row;
+for (row = 1; row <= 10; row++)
 {
-for (j = 48; j <= 63; j++)
+for (number = 0; number <= 14; number++)
 {
-putchar(i);
+tens = number / 10;
+units = number % 10;
+if (number > 9)
+_putchar(tens + '0');
+_putchar(units + '0');
 }
-putchar('\n');
+_putchar('\n');
 }
 }
